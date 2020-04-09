@@ -1,0 +1,66 @@
+testInfo:
+      - id: test_login001
+        title: 登录测试
+        info: 打开Fleet_APP
+testCase:
+      - index: 0
+        element_info: com.di5cheng.auv:id/activity_login_fu_et_phone_number
+        find_type: By.ID
+        operate_type: send_keys
+        info: 输入用户名
+      - index: 1
+        element_info: com.di5cheng.auv:id/et_pwd
+        find_type: By.ID
+        operate_type: send_keys
+        info: 输入密码
+      - index: 2
+        element_info: com.di5cheng.auv:id/activity_login_fu_btn_login
+        find_type: By.ID
+        operate_type: click
+        info: 单击登录按钮
+      - index: 3
+        element_info: com.di5cheng.auv:id/icon_mine
+        find_type: By.ID
+        operate_type: click
+        info: 单击我的
+      - index: 4
+        element_info: com.di5cheng.auv:id/my_material
+        find_type: By.ID
+        operate_type: click
+        info: 单击我的资料
+      - index: 5
+        element_info: com.di5cheng.auv:id/tv_logout
+        find_type: By.ID
+        operate_type: click
+        info: 单击退出登录
+      - index: 6
+        element_info: com.di5cheng.auv:id/dialog_sure_btn
+        find_type: By.ID
+        operate_type: click
+        info: 退出窗口单击确定
+check:
+      - index: 0
+        element_info: com.di5cheng.auv:id/icon_mine
+        find_type: By.ID
+        operate_type: text
+        info: 断言登陆成功
+      - index: 1
+        element_info: com.di5cheng.auv:id/activity_login_fu_btn_login
+        find_type: By.ID
+        operate_type: text
+        info: 断言退出成功
+      - index: 2
+        element_info: .//*[contains(@text,"用户名或者密码错误")]
+        find_type: xpath
+        operate_type: text
+        info: 找到toast[用户名或者密码错误！]
+      - index: 3
+        element_info: .//*[contains(@text,"请输入手机号码")]
+        find_type: xpath
+        operate_type: text
+        info: 找到toast[请输入手机号码！]
+      - index: 4
+        element_info: .//*[contains(@text,"请输入密码")]
+        find_type: xpath
+        operate_type: text
+        info: 找到toast[请输入密码！]

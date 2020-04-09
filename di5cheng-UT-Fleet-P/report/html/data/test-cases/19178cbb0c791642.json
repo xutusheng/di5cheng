@@ -1,0 +1,114 @@
+{
+  "uid" : "19178cbb0c791642",
+  "name" : "test_new_supercargo",
+  "fullName" : "testcase.test_04_supercargo.TestSupercargo#test_new_supercargo",
+  "historyId" : "ce2cd6831ad31dc88281616f96dba0c0",
+  "time" : {
+    "start" : 1574952725110,
+    "stop" : 1574952754911,
+    "duration" : 29801
+  },
+  "description" : "新增一个押运员",
+  "descriptionHtml" : "<p>新增一个押运员</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1574952700919,
+      "stop" : 1574952725109,
+      "duration" : 24190
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "新增一个押运员",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "932f92aa1a2abbba",
+      "name" : "log",
+      "source" : "932f92aa1a2abbba.txt",
+      "type" : "text/plain",
+      "size" : 16772
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "init::0",
+    "time" : {
+      "start" : 1574952754911,
+      "stop" : 1574952756291,
+      "duration" : 1380
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "新增押运员"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "feature",
+    "value" : "运力管理"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_04_supercargo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSupercargo"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "thread",
+    "value" : "17152-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_04_supercargo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "19178cbb0c791642.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,114 @@
+{
+  "uid" : "25e4b1f2f1662295",
+  "name" : "test_new_driver",
+  "fullName" : "testcase.test_03_driver.TestDriver#test_new_driver",
+  "historyId" : "c62565038dd77d0419629beda6b57114",
+  "time" : {
+    "start" : 1574952648656,
+    "stop" : 1574952699519,
+    "duration" : 50863
+  },
+  "description" : "新增一个司机",
+  "descriptionHtml" : "<p>新增一个司机</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1574952624528,
+      "stop" : 1574952648655,
+      "duration" : 24127
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "新增一个司机",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a45c4c1c8eb897d0",
+      "name" : "log",
+      "source" : "a45c4c1c8eb897d0.txt",
+      "type" : "text/plain",
+      "size" : 28414
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "init::0",
+    "time" : {
+      "start" : 1574952699519,
+      "stop" : 1574952700915,
+      "duration" : 1396
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "运力管理"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "新增司机"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_03_driver"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDriver"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "thread",
+    "value" : "17152-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_03_driver"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25e4b1f2f1662295.json",
+  "parameterValues" : [ ]
+}

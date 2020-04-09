@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Nov 28 22:46:47 GMT+08:00 2019","Thu Nov 28 22:48:20 GMT+08:00 2019","92729","testcase","test_01_vehicle","TestVehicle","","","test_new_vehicle","新增一个车辆"
+"passed","Thu Nov 28 22:53:00 GMT+08:00 2019","Thu Nov 28 22:53:10 GMT+08:00 2019","9389","testcase","test_05_bind","TestBind","","","test_new_bind","新增车辆司机绑定"
+"passed","Thu Nov 28 22:48:46 GMT+08:00 2019","Thu Nov 28 22:50:23 GMT+08:00 2019","97045","testcase","test_02_trailer","TestTrailer","","","test_new_trailer","新增一个挂车"
+"passed","Thu Nov 28 22:50:48 GMT+08:00 2019","Thu Nov 28 22:51:39 GMT+08:00 2019","50863","testcase","test_03_driver","TestDriver","","","test_new_driver","新增一个司机"
+"passed","Thu Nov 28 22:52:05 GMT+08:00 2019","Thu Nov 28 22:52:34 GMT+08:00 2019","29801","testcase","test_04_supercargo","TestSupercargo","","","test_new_supercargo","新增一个押运员"

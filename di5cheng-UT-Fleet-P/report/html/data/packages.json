@@ -1,0 +1,94 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "test_01_vehicle",
+      "children" : [ {
+        "name" : "test_new_vehicle",
+        "uid" : "b9b69529c71dbb5",
+        "parentUid" : "161d9d2ce542a84f0a94177a4725b12f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952407678,
+          "stop" : 1574952500407,
+          "duration" : 92729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "161d9d2ce542a84f0a94177a4725b12f"
+    }, {
+      "name" : "test_02_trailer",
+      "children" : [ {
+        "name" : "test_new_trailer",
+        "uid" : "6dea6458d2f9cbe4",
+        "parentUid" : "194acb0758b989e6df440e1fe154fdbe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952526072,
+          "stop" : 1574952623117,
+          "duration" : 97045
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "194acb0758b989e6df440e1fe154fdbe"
+    }, {
+      "name" : "test_03_driver",
+      "children" : [ {
+        "name" : "test_new_driver",
+        "uid" : "25e4b1f2f1662295",
+        "parentUid" : "75a863ac0136bb0f76c5c63aca52a5ee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952648656,
+          "stop" : 1574952699519,
+          "duration" : 50863
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "75a863ac0136bb0f76c5c63aca52a5ee"
+    }, {
+      "name" : "test_04_supercargo",
+      "children" : [ {
+        "name" : "test_new_supercargo",
+        "uid" : "19178cbb0c791642",
+        "parentUid" : "e236135a8dda902a1a083c02e5ae70ec",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952725110,
+          "stop" : 1574952754911,
+          "duration" : 29801
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e236135a8dda902a1a083c02e5ae70ec"
+    }, {
+      "name" : "test_05_bind",
+      "children" : [ {
+        "name" : "test_new_bind",
+        "uid" : "134c359a691d612f",
+        "parentUid" : "708d0eb445466e03072edb40181dc587",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952780632,
+          "stop" : 1574952790021,
+          "duration" : 9389
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "708d0eb445466e03072edb40181dc587"
+    } ],
+    "uid" : "559e15d0a5469c40d1629e36b5ae40ea"
+  } ]
+}

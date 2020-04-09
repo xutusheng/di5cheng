@@ -1,0 +1,94 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "运力管理",
+    "children" : [ {
+      "name" : "新增车辆",
+      "children" : [ {
+        "name" : "test_new_vehicle",
+        "uid" : "b9b69529c71dbb5",
+        "parentUid" : "61b819e3ca6d770fd8af06b991bba940",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952407678,
+          "stop" : 1574952500407,
+          "duration" : 92729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "61b819e3ca6d770fd8af06b991bba940"
+    }, {
+      "name" : "新增挂车",
+      "children" : [ {
+        "name" : "test_new_trailer",
+        "uid" : "6dea6458d2f9cbe4",
+        "parentUid" : "ebdd53f40f1b9526faefdcbc7765e26c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952526072,
+          "stop" : 1574952623117,
+          "duration" : 97045
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ebdd53f40f1b9526faefdcbc7765e26c"
+    }, {
+      "name" : "新增司机",
+      "children" : [ {
+        "name" : "test_new_driver",
+        "uid" : "25e4b1f2f1662295",
+        "parentUid" : "cb568d533ac2bfca1f339e4c93aa262d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952648656,
+          "stop" : 1574952699519,
+          "duration" : 50863
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cb568d533ac2bfca1f339e4c93aa262d"
+    }, {
+      "name" : "新增押运员",
+      "children" : [ {
+        "name" : "test_new_supercargo",
+        "uid" : "19178cbb0c791642",
+        "parentUid" : "b29b21fb8ef6ccf4100cc98ddf92c933",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952725110,
+          "stop" : 1574952754911,
+          "duration" : 29801
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b29b21fb8ef6ccf4100cc98ddf92c933"
+    }, {
+      "name" : "车辆司机绑定",
+      "children" : [ {
+        "name" : "test_new_bind",
+        "uid" : "134c359a691d612f",
+        "parentUid" : "f40d23ebfbf546bf02f7cb6703a85913",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952780632,
+          "stop" : 1574952790021,
+          "duration" : 9389
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f40d23ebfbf546bf02f7cb6703a85913"
+    } ],
+    "uid" : "8127093a6a315f851873562168cee886"
+  } ]
+}

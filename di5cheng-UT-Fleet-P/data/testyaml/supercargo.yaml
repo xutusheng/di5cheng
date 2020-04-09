@@ -1,0 +1,39 @@
+testInfo:
+      - id: test_supercargo
+        title: 新增押运员
+testCase:
+      - index: 0
+        element_info: com.di5cheng.auv:id/icon_mine
+        find_type: By.ID
+        operate_type: click
+        info: 我的
+      - index: 1
+        element_info: com.di5cheng.auv:id/ll_driver_manager
+        find_type: By.ID
+        operate_type: click
+        info: 司机管理
+      - index: 2
+        element_info: com.di5cheng.auv:id/tv_tab_title
+        find_type: By.ID
+        operate_type: click
+        info: 押运员
+      - index: 3
+        element_info: com.di5cheng.auv:id/tv_add_car
+        find_type: By.ID
+        operate_type: click
+        info: 新增押运员
+      - index: 4
+        element_info: com.di5cheng.auv:id/et_supercargo_name
+        find_type: By.ID
+        operate_type: send_keys
+        info: 押运员姓名
+      - index: 5
+        element_info: com.di5cheng.auv:id/et_supercargo_phone
+        find_type: By.ID
+        operate_type: send_keys
+        info: 押运员手机号
+      - index: 6
+        element_info: com.di5cheng.auv:id/tv_supercargo_license
+        find_type: By.ID
+        operate_type: click
+        info: 押运员证

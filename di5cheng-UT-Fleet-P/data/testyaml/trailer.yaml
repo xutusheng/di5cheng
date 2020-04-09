@@ -1,0 +1,75 @@
+testInfo:
+      - id: test_trailer
+        title: 新增挂车
+testCase:
+      - index: 0
+        element_info: com.di5cheng.auv:id/icon_mine
+        find_type: By.ID
+        operate_type: click
+        info: 我的
+      - index: 1
+        element_info: com.di5cheng.auv:id/ll_truck_manager
+        find_type: By.ID
+        operate_type: click
+        info: 车辆管理
+      - index: 2
+        element_info: com.di5cheng.auv:id/tv_tab_title
+        find_type: By.ID
+        operate_type: click
+        info: 挂车
+      - index: 3
+        element_info: com.di5cheng.auv:id/tv_add_car
+        find_type: By.ID
+        operate_type: click
+        info: 新增挂车
+      - index: 4
+        element_info: com.di5cheng.auv:id/et_car_num
+        find_type: By.ID
+        operate_type: send_keys
+        info: 挂车牌号
+      - index: 5
+        element_info: com.di5cheng.auv:id/et_car_load
+        find_type: By.ID
+        operate_type: send_keys
+        info: 荷载吨数
+      - index: 6
+        element_info: com.di5cheng.auv:id/tv_car_type
+        find_type: By.ID
+        operate_type: click
+        info: 罐体类型
+      - index: 7
+        element_info: com.di5cheng.auv:id/btnSubmit
+        find_type: By.ID
+        operate_type: click
+        info: 罐体类型确定
+      - index: 8
+        element_info: com.di5cheng.auv:id/tv_load_way
+        find_type: By.ID
+        operate_type: click
+        info: 装口类型
+      - index: 9
+        element_info: com.di5cheng.auv:id/img_1
+        find_type: By.ID
+        operate_type: click
+        info: 单击上装口
+      - index: 10
+        element_info: com.di5cheng.auv:id/tv_confirm
+        find_type: By.ID
+        operate_type: click
+        info: 装口类型确定
+      - index: 11
+        element_info: com.di5cheng.auv:id/tv_transport_license
+        find_type: By.ID
+        operate_type: click
+        info: 车辆道路运输证
+      - index: 12
+        element_info: com.di5cheng.auv:id/tv_driving_permit
+        find_type: By.ID
+        operate_type: click
+        info: 车辆行驶证
+check:
+      - index: 0
+        element_info: com.di5cheng.auv:id/icon_mine
+        find_type: By.ID
+        operate_type: text
+        info: 断言成功

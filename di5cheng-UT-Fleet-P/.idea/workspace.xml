@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71679f8f-5670-4133-840b-c8a673df66cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Yaml" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>testcase</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1TdmYMBCsQVu0QFBU2Rr9y8xI38" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../di5cheng-IT-AUV1.19" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PycharmProjects\Auv3.0\Fleet\common" />
+      <recent name="E:\PycharmProjects\Service\data" />
+      <recent name="E:\Leo\Fleet\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Leo\PythonTest\Fleet" />
+      <recent name="E:\Leo\PythonTest\Fleet\testcase" />
+      <recent name="E:\Leo\Fleet\testcase" />
+      <recent name="E:\Leo\Fleet\data\testyaml" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_main">
+    <configuration name="run_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="di5cheng-UT-Fleet-P" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="di5cheng-UT-Fleet-P" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_main" />
+      <item itemvalue="Python tests.Unittests in login.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_main" />
+        <item itemvalue="Python tests.Unittests in login.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71679f8f-5670-4133-840b-c8a673df66cc" name="Default Changelist" comment="" />
+      <created>1566021530288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566021530288</updated>
+      <workItem from="1566021532434" duration="7349000" />
+      <workItem from="1566635675138" duration="5342000" />
+      <workItem from="1567391851822" duration="18430000" />
+      <workItem from="1567476476366" duration="9845000" />
+      <workItem from="1567497103943" duration="1838000" />
+      <workItem from="1567562751843" duration="384000" />
+      <workItem from="1567577313982" duration="4606000" />
+      <workItem from="1567582111890" duration="911000" />
+      <workItem from="1567583746884" duration="4970000" />
+      <workItem from="1567997924495" duration="132000" />
+      <workItem from="1568077613233" duration="13003000" />
+      <workItem from="1568105303447" duration="2523000" />
+      <workItem from="1568164359115" duration="611000" />
+      <workItem from="1568250084816" duration="3081000" />
+      <workItem from="1568269676564" duration="4530000" />
+      <workItem from="1570271334446" duration="11448000" />
+      <workItem from="1570336206810" duration="15679000" />
+      <workItem from="1570427526416" duration="11818000" />
+      <workItem from="1570621303392" duration="241000" />
+      <workItem from="1571023395923" duration="330000" />
+      <workItem from="1571055629893" duration="137000" />
+      <workItem from="1571216291116" duration="430000" />
+      <workItem from="1571368846366" duration="1383000" />
+      <workItem from="1573798393755" duration="1586000" />
+      <workItem from="1573800026709" duration="19000" />
+      <workItem from="1573802900743" duration="91000" />
+      <workItem from="1573885007605" duration="4725000" />
+      <workItem from="1573890399328" duration="6712000" />
+      <workItem from="1573965604009" duration="19154000" />
+      <workItem from="1574045418232" duration="217000" />
+      <workItem from="1574045651735" duration="1004000" />
+      <workItem from="1574046688252" duration="9012000" />
+      <workItem from="1574126108657" duration="203000" />
+      <workItem from="1574339689156" duration="3490000" />
+      <workItem from="1574343234366" duration="3168000" />
+      <workItem from="1574347799749" duration="223000" />
+      <workItem from="1574438339223" duration="857000" />
+      <workItem from="1574597951629" duration="3084000" />
+      <workItem from="1574610803016" duration="698000" />
+      <workItem from="1574685391960" duration="1200000" />
+      <workItem from="1574856615651" duration="84000" />
+      <workItem from="1574856709311" duration="100000" />
+      <workItem from="1574856828585" duration="474000" />
+      <workItem from="1574951279330" duration="1690000" />
+      <workItem from="1575693347982" duration="706000" />
+      <workItem from="1575798359579" duration="173000" />
+      <workItem from="1575799469821" duration="16000" />
+      <workItem from="1575804119885" duration="14000" />
+      <workItem from="1575804134532" duration="77000" />
+      <workItem from="1575804219573" duration="157000" />
+      <workItem from="1575804377822" duration="47000" />
+      <workItem from="1575804425537" duration="41000" />
+      <workItem from="1575804478632" duration="1424000" />
+      <workItem from="1575817567152" duration="30000" />
+      <workItem from="1575817683381" duration="157000" />
+      <workItem from="1575895019675" duration="15000" />
+      <workItem from="1581172677980" duration="1574000" />
+      <workItem from="1586162281575" duration="11000" />
+      <workItem from="1586162304424" duration="9000" />
+      <workItem from="1586233802951" duration="1260000" />
+      <workItem from="1586399156676" duration="3154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586235064768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586235064768" />
+    <state x="606" y="214" key="SettingsEditor" timestamp="1586234780411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="606" y="214" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586234780411" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_for_test_bind_TestBind.coverage" NAME="Unittests for test_bind.TestBind Coverage Results" MODIFIED="1570374155037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_for_test_05_bind_TestBind_test_newBind.coverage" NAME="Unittests for test_05_bind.TestBind.test_newBind Coverage Results" MODIFIED="1570438747700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_test_04_supercargo_py.coverage" NAME="Unittests in test_04_supercargo.py Coverage Results" MODIFIED="1573888452777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Service$Unittests_for_test_inquiryList_TestInquiryList_test_inquiryList.coverage" NAME="Unittests for test_inquiryList.TestInquiryList.test_inquiryList Coverage Results" MODIFIED="1567582351556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Service$Unittests_in_test_reportList_py.coverage" NAME="Unittests in test_reportList.py Coverage Results" MODIFIED="1568275208947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_for_test_trailer_TestLogin_test_newCar.coverage" NAME="Unittests for test_trailer.TestLogin.test_newCar Coverage Results" MODIFIED="1570291805893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_for_test_vehicle_TestVehicle_test_newVehicle.coverage" NAME="Unittests for test_vehicle.TestVehicle.test_newVehicle Coverage Results" MODIFIED="1570378480399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_for_test_trailer_TestLogin.coverage" NAME="Unittests for test_trailer.TestLogin Coverage Results" MODIFIED="1570287225359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet1$Unittests_in_test_trailer_py.coverage" NAME="Unittests in test_trailer.py Coverage Results" MODIFIED="1567498186245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_test_trailer_py.coverage" NAME="Unittests in test_02_trailer.py Coverage Results" MODIFIED="1570436707672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet1$Unittests_for_test_trailer_TestLogin_test_newGua.coverage" NAME="Unittests for test_trailer.TestLogin.test_newGua Coverage Results" MODIFIED="1567497906049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Service$Unittests_for_test_reportList_TestReportList_test_inquiryList.coverage" NAME="Unittests for test_reportList.TestReportList.test_inquiryList Coverage Results" MODIFIED="1568097571182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet1$Unittests_for_test_trailer_TestLogin.coverage" NAME="Unittests for test_trailer.TestLogin Coverage Results" MODIFIED="1567423592680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_test_vehicle_py.coverage" NAME="Unittests in test_vehicle.py Coverage Results" MODIFIED="1570380244172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Service$Unittests_in_test_inquiryList_py.coverage" NAME="Unittests in test_inquiryList.py Coverage Results" MODIFIED="1568274835842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$test_04_supercargo.coverage" NAME="test_04_supercargo Coverage Results" MODIFIED="1573989169222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_test_05_bind_py.coverage" NAME="Unittests in test_05_bind.py Coverage Results" MODIFIED="1570438979056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_test_bind_py.coverage" NAME="Unittests in test_bind.py Coverage Results" MODIFIED="1570374902045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$test_05_bind.coverage" NAME="test_05_bind Coverage Results" MODIFIED="1573966030787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_test_03_driver_py.coverage" NAME="Unittests in test_03_driver.py Coverage Results" MODIFIED="1573888348657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet1$Unittests_for_test_trailer_TestLogin_test_newCar.coverage" NAME="Unittests for test_trailer.TestLogin.test_newCar Coverage Results" MODIFIED="1567414005616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_test_01_vehicle_py.coverage" NAME="Unittests in test_01_vehicle.py Coverage Results" MODIFIED="1573887998564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$makeDir.coverage" NAME="makeDir Coverage Results" MODIFIED="1573982041433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_test_fleetLogin_py.coverage" NAME="Unittests in test_fleetLogin.py Coverage Results" MODIFIED="1566044700423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$test_01_vehicle.coverage" NAME="test_01_vehicle Coverage Results" MODIFIED="1573893122602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_test_supercargo_py.coverage" NAME="Unittests in test_supercargo.py Coverage Results" MODIFIED="1570345814616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_for_test_driver_TestVehicle_test_newDriver.coverage" NAME="Unittests for test_driver.TestVehicle.test_newDriver Coverage Results" MODIFIED="1570344778093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$pytest_in_test_04_supercargo_py.coverage" NAME="pytest in test_04_supercargo.py Coverage Results" MODIFIED="1573989971691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$test_03_driver.coverage" NAME="test_03_driver Coverage Results" MODIFIED="1573988902909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_test_02_trailer_py.coverage" NAME="Unittests in test_02_trailer.py Coverage Results" MODIFIED="1573888182207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/Fleet$ParseExcel.coverage" NAME="ParseExcel Coverage Results" MODIFIED="1570380144142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/Fleet$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1573991945364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fleet$Unittests_in_login_py.coverage" NAME="Unittests in login.py Coverage Results" MODIFIED="1573974862262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/di5cheng_UITEST_Fleet$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1574952838712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

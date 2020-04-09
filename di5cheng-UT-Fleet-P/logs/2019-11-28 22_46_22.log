@@ -1,0 +1,7 @@
+[2019-11-28 22:46:47,679] - logger.py - INFO: -----> 开始新增车辆
+[2019-11-28 22:48:46,072] - logger.py - INFO: -----> 开始新增挂车
+[2019-11-28 22:50:48,656] - logger.py - INFO: -----> 开始新增司机
+[2019-11-28 22:52:05,109] - logger.py - INFO: -----> 开始新增押运员
+[2019-11-28 22:53:00,632] - logger.py - INFO: -----> 开始车辆司机绑定
+[2019-11-28 22:53:09,245] - logger.py - ERROR: 异常情况，返回错误信息是->: Message: The element 'By.id: com.di5cheng.auv:id/tv_car_num' does not exist in DOM anymore
+

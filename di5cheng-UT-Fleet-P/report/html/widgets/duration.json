@@ -1,0 +1,51 @@
+[ {
+  "uid" : "b9b69529c71dbb5",
+  "name" : "test_new_vehicle",
+  "time" : {
+    "start" : 1574952407678,
+    "stop" : 1574952500407,
+    "duration" : 92729
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "134c359a691d612f",
+  "name" : "test_new_bind",
+  "time" : {
+    "start" : 1574952780632,
+    "stop" : 1574952790021,
+    "duration" : 9389
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "6dea6458d2f9cbe4",
+  "name" : "test_new_trailer",
+  "time" : {
+    "start" : 1574952526072,
+    "stop" : 1574952623117,
+    "duration" : 97045
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "25e4b1f2f1662295",
+  "name" : "test_new_driver",
+  "time" : {
+    "start" : 1574952648656,
+    "stop" : 1574952699519,
+    "duration" : 50863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19178cbb0c791642",
+  "name" : "test_new_supercargo",
+  "time" : {
+    "start" : 1574952725110,
+    "stop" : 1574952754911,
+    "duration" : 29801
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]

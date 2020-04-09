@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MSI",
+    "children" : [ {
+      "name" : "17152-MainThread",
+      "children" : [ {
+        "name" : "test_new_supercargo",
+        "uid" : "19178cbb0c791642",
+        "parentUid" : "6f1903ab4db7531b796591dd945fa543",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952725110,
+          "stop" : 1574952754911,
+          "duration" : 29801
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_new_bind",
+        "uid" : "134c359a691d612f",
+        "parentUid" : "6f1903ab4db7531b796591dd945fa543",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952780632,
+          "stop" : 1574952790021,
+          "duration" : 9389
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_new_driver",
+        "uid" : "25e4b1f2f1662295",
+        "parentUid" : "6f1903ab4db7531b796591dd945fa543",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952648656,
+          "stop" : 1574952699519,
+          "duration" : 50863
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_new_trailer",
+        "uid" : "6dea6458d2f9cbe4",
+        "parentUid" : "6f1903ab4db7531b796591dd945fa543",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952526072,
+          "stop" : 1574952623117,
+          "duration" : 97045
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_new_vehicle",
+        "uid" : "b9b69529c71dbb5",
+        "parentUid" : "6f1903ab4db7531b796591dd945fa543",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574952407678,
+          "stop" : 1574952500407,
+          "duration" : 92729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6f1903ab4db7531b796591dd945fa543"
+    } ],
+    "uid" : "4e235fbd4c199973bc00f3dda2ae852d"
+  } ]
+}

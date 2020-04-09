@@ -1,0 +1,84 @@
+testInfo:
+      - id: test_driver
+        title: 新增司机
+testCase:
+      - index: 0
+        element_info: com.di5cheng.auv:id/icon_mine
+        find_type: By.ID
+        operate_type: click
+        info: 我的
+      - index: 1
+        element_info: com.di5cheng.auv:id/ll_car_bind_driver
+        find_type: By.ID
+        operate_type: click
+        info: 车辆司机绑定
+      - index: 2
+        element_info: com.di5cheng.auv:id/txt_right
+        find_type: By.ID
+        operate_type: click
+        info: 新增绑定
+      - index: 3
+        element_info: com.di5cheng.auv:id/tv_car_num
+        find_type: By.ID
+        operate_type: click
+        info: 车牌号码
+      - index: 4
+        element_info: com.di5cheng.auv:id/tv_trailer_num
+        find_type: By.ID
+        operate_type: click
+        info: 挂车牌号
+      - index: 5
+        element_info: com.di5cheng.auv:id/tv_driver_name
+        find_type: By.ID
+        operate_type: click
+        info: 司机姓名
+      - index: 6
+        element_info: com.di5cheng.auv:id/tv_supercargo_name
+        find_type: By.ID
+        operate_type: click
+        info: 押运员姓名
+      - index: 7
+        element_info: com.di5cheng.auv:id/tv_confirm
+        find_type: By.ID
+        operate_type: click
+        info: 保存
+      - index: 8
+        element_info: com.di5cheng.auv:id/item2
+        find_type: By.ID
+        operate_type: click
+        info: 删除
+      - index: 9
+        element_info: com.di5cheng.auv:id/dialog_sure_btn
+        find_type: By.ID
+        operate_type: click
+        info: 二次确认删除
+      - index: 10
+        element_info: com.di5cheng.auv:id/img_left
+        find_type: By.ID
+        operate_type: click
+        info: 返回我的
+      - index: 11
+        element_info: com.di5cheng.auv:id/ll_truck_manager
+        find_type: By.ID
+        operate_type: click
+        info: 车辆管理
+      - index: 12
+        element_info: com.di5cheng.auv:id/img_right
+        find_type: By.ID
+        operate_type: click
+        info: 打开删除编辑选项
+      - index: 13
+        element_info: com.di5cheng.auv:id/tv_tab_title
+        find_type: By.ID
+        operate_type: click
+        info: 挂车
+      - index: 14
+        element_info: com.di5cheng.auv:id/img_back
+        find_type: By.ID
+        operate_type: click
+        info: 挂车返回
+      - index: 15
+        element_info: com.di5cheng.auv:id/ll_driver_manager
+        find_type: By.ID
+        operate_type: click
+        info: 司机管理

@@ -1,0 +1,44 @@
+testInfo:
+      - id: test_vehicle
+        title: 新增车辆
+testCase:
+      - index: 0
+        element_info: com.di5cheng.auv:id/icon_mine
+        find_type: By.ID
+        operate_type: click
+        info: 我的
+      - index: 1
+        element_info: com.di5cheng.auv:id/ll_truck_manager
+        find_type: By.ID
+        operate_type: click
+        info: 车辆管理
+      - index: 2
+        element_info: com.di5cheng.auv:id/tv_add_car
+        find_type: By.ID
+        operate_type: click
+        info: 新增车辆
+      - index: 3
+        element_info: com.di5cheng.auv:id/et_car_num
+        find_type: By.ID
+        operate_type: send_keys
+        info: 车牌号码
+      - index: 4
+        element_info: com.di5cheng.auv:id/tv_car_type
+        find_type: By.ID
+        operate_type: click
+        info: 车辆类型
+      - index: 5
+        element_info: com.di5cheng.auv:id/btnSubmit
+        find_type: By.ID
+        operate_type: click
+        info: 车辆类型确定
+      - index: 6
+        element_info: com.di5cheng.auv:id/tv_transport_license
+        find_type: By.ID
+        operate_type: click
+        info: 车辆道路运输证
+      - index: 7
+        element_info: com.di5cheng.auv:id/tv_driving_permit
+        find_type: By.ID
+        operate_type: click
+        info: 车辆行驶证

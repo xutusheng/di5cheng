@@ -1,0 +1,44 @@
+testInfo:
+      - id: GET_REUSE_ELEMENTS
+        title: 复用元素
+testCase:
+      - index: 0
+        element_info: .//*[contains(@text,"点击上传")]
+        find_type: By.XPATH
+        operate_type: click
+        info: 点击上传
+      - index: 1
+        element_info: com.di5cheng.auv:id/item1
+        find_type: By.ID
+        operate_type: click
+        info: 从相册中选取
+      - index: 2
+        element_info: com.android.gallery3d:id/photo_count
+        find_type: By.ID
+        operate_type: click
+        info: 单击DCIM
+      - index: 3
+        element_info: com.di5cheng.auv:id/tv_expiry_date
+        find_type: By.XPATH
+        operate_type: click
+        info: 证件有效期
+      - index: 4
+        element_info: com.di5cheng.auv:id/btnSubmit
+        find_type: By.ID
+        operate_type: click
+        info: 证件有效期内确定
+      - index: 5
+        element_info: com.di5cheng.auv:id/txt_right
+        find_type: By.ID
+        operate_type: click
+        info: 外部确定
+      - index: 6
+        element_info: com.di5cheng.auv:id/et_car_num
+        find_type: By.ID
+        operate_type: send_keys
+        info: 车辆识别代码号
+      - index: 7
+        element_info: com.di5cheng.auv:id/tv_confirm
+        find_type: By.ID
+        operate_type: click
+        info: 提交审核

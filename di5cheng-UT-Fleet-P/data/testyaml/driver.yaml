@@ -1,0 +1,49 @@
+testInfo:
+      - id: test_driver
+        title: 新增司机
+testCase:
+      - index: 0
+        element_info: com.di5cheng.auv:id/icon_mine
+        find_type: By.ID
+        operate_type: click
+        info: 我的
+      - index: 1
+        element_info: com.di5cheng.auv:id/ll_driver_manager
+        find_type: By.ID
+        operate_type: click
+        info: 司机管理
+      - index: 2
+        element_info: com.di5cheng.auv:id/tv_add_car
+        find_type: By.ID
+        operate_type: click
+        info: 新增司机
+      - index: 3
+        element_info: com.di5cheng.auv:id/et_driver_name
+        find_type: By.ID
+        operate_type: send_keys
+        info: 司机姓名
+      - index: 4
+        element_info: com.di5cheng.auv:id/et_driver_id_num
+        find_type: By.ID
+        operate_type: send_keys
+        info: 司机身份证号码
+      - index: 5
+        element_info: com.di5cheng.auv:id/et_driver_phone
+        find_type: By.ID
+        operate_type: send_keys
+        info: 司机手机号码
+      - index: 6
+        element_info: com.di5cheng.auv:id/tv_driver_license
+        find_type: By.ID
+        operate_type: click
+        info: 驾驶证照片
+      - index: 7
+        element_info: com.di5cheng.auv:id/tv_work_permit
+        find_type: By.ID
+        operate_type: click
+        info: 从业资格证照片
+      - index: 8
+        element_info: com.di5cheng.auv:id/et_work_permit_num
+        find_type: By.ID
+        operate_type: send_keys
+        info: 从业资格证号

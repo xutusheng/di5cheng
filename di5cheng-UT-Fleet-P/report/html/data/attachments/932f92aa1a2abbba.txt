@@ -1,0 +1,95 @@
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:platformVersion": "8", "appium:deviceName": "SNMBB18413537671", "appium:appPackage": "com.di5cheng.auv", "appium:appActivity": "com.di5cheng.auv.WelcomeActivity", "appium:automationName": "uiautomator2", "appium:unicodeKeyboard": true, "appium:resetKeyboard": true, "appium:noReset": true, "appium:newCommandTimeout": 60}]}, "desiredCapabilities": {"platformName": "Android", "platformVersion": "8", "deviceName": "SNMBB18413537671", "appPackage": "com.di5cheng.auv", "appActivity": "com.di5cheng.auv.WelcomeActivity", "automationName": "uiautomator2", "unicodeKeyboard": true, "resetKeyboard": true, "noReset": true, "newCommandTimeout": 60}}
+DEBUG    urllib3.connectionpool:connectionpool.py:221 Starting new HTTP connection (1): 127.0.0.1:4723
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 1095
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/timeouts {"implicit": 10000}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/timeouts HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+INFO     root:logger.py:41 -----> 开始新增押运员
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/icon_mine"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/8826048d-ddbb-4984-a1c6-a4e5c6f55c13/click {"id": "8826048d-ddbb-4984-a1c6-a4e5c6f55c13"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/8826048d-ddbb-4984-a1c6-a4e5c6f55c13/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/ll_driver_manager"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/8cf635f0-11e3-4973-a0eb-899f1ca55385/click {"id": "8cf635f0-11e3-4973-a0eb-899f1ca55385"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/8cf635f0-11e3-4973-a0eb-899f1ca55385/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/elements {"using": "id", "value": "com.di5cheng.auv:id/tv_tab_title"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/elements HTTP/1.1" 200 267
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/6fee9faf-1535-428a-80a4-bff9f2530b7e/click {"id": "6fee9faf-1535-428a-80a4-bff9f2530b7e"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/6fee9faf-1535-428a-80a4-bff9f2530b7e/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/tv_add_car"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/1c44e531-cd1b-4fce-8f45-099e3e200061/click {"id": "1c44e531-cd1b-4fce-8f45-099e3e200061"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/1c44e531-cd1b-4fce-8f45-099e3e200061/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/et_supercargo_name"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/9cf2bbde-e554-4510-82e3-154b5513540e/value {"text": "\u6d4b\u8bd5\u4e50\u4e5048", "value": ["\u6d4b", "\u8bd5", "\u4e50", "\u4e50", "4", "8"], "id": "9cf2bbde-e554-4510-82e3-154b5513540e"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/9cf2bbde-e554-4510-82e3-154b5513540e/value HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/et_supercargo_phone"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/970f78bf-cbc5-4b93-a110-bd20f17b8b72/value {"text": "15811112248", "value": ["1", "5", "8", "1", "1", "1", "1", "2", "2", "4", "8"], "id": "970f78bf-cbc5-4b93-a110-bd20f17b8b72"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/970f78bf-cbc5-4b93-a110-bd20f17b8b72/value HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/tv_supercargo_license"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/d4af7475-afe3-447b-a1ec-a186d587fe69/click {"id": "d4af7475-afe3-447b-a1ec-a186d587fe69"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/d4af7475-afe3-447b-a1ec-a186d587fe69/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "xpath", "value": ".//*[contains(@text,\"\u70b9\u51fb\u4e0a\u4f20\")]"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/ea099f01-9493-418e-89fa-d90ca28f4d50/click {"id": "ea099f01-9493-418e-89fa-d90ca28f4d50"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/ea099f01-9493-418e-89fa-d90ca28f4d50/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/item1"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/4b8c537f-324e-40c3-b870-26979ce40f4b/click {"id": "4b8c537f-324e-40c3-b870-26979ce40f4b"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/4b8c537f-324e-40c3-b870-26979ce40f4b/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/elements {"using": "id", "value": "com.android.gallery3d:id/photo_count"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/elements HTTP/1.1" 200 139
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/e52fcdd1-f2a7-4876-aaa3-b03c38c0f4f0/click {"id": "e52fcdd1-f2a7-4876-aaa3-b03c38c0f4f0"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/e52fcdd1-f2a7-4876-aaa3-b03c38c0f4f0/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/tv_expiry_date"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/fc556803-d616-4541-93f4-e44425483570/click {"id": "fc556803-d616-4541-93f4-e44425483570"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/fc556803-d616-4541-93f4-e44425483570/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/btnSubmit"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/6b11cb09-ff30-4558-8387-62cb29b426a8/click {"id": "6b11cb09-ff30-4558-8387-62cb29b426a8"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/6b11cb09-ff30-4558-8387-62cb29b426a8/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/txt_right"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/c9e02332-c873-4d18-bb89-a971225798c2/click {"id": "c9e02332-c873-4d18-bb89-a971225798c2"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/c9e02332-c873-4d18-bb89-a971225798c2/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element {"using": "id", "value": "com.di5cheng.auv:id/tv_confirm"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element HTTP/1.1" 200 137
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/0a03bb5a-8510-4757-9932-b62a68af587e/click {"id": "0a03bb5a-8510-4757-9932-b62a68af587e"}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "POST /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960/element/0a03bb5a-8510-4757-9932-b62a68af587e/click HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 DELETE http://127.0.0.1:4723/wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960 {}
+DEBUG    urllib3.connectionpool:connectionpool.py:428 http://127.0.0.1:4723 "DELETE /wd/hub/session/e646b514-ac96-45c1-a2dd-7a1b037c6960 HTTP/1.1" 200 14
+DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
