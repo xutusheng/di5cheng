@@ -1,0 +1,10 @@
+requests==2.23.0
+pytest==5.4.1
+PyMySQL==0.9.3
+sshtunnel==0.1.5
+PyYAML==5.3.1
+Faker==4.0.2
+allure-pytest==2.8.13
+python-docx==0.8.10
+openpyxl==3.0.3
+xlrd==1.2.0
